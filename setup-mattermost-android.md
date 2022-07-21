@@ -12,4 +12,4 @@ date: 2022-07-21
 
 ## 設定
 
-[Windows版の解説](setup-mattermost-windows.md#サーバの設定)を参考に進めてください。
+[Windows版のサーバ設定方法](setup-mattermost-windows.md#サーバの設定)を参考に進めてください。
