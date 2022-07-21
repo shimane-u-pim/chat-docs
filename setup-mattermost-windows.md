@@ -3,7 +3,11 @@ title: WindowsでのMattermostの設定
 date: 2022-07-21
 ---
 
+## ダウンロードとインストール
+
 [公式サイト](https://mattermost.com/apps/)からWindows版をダウンロードし、インストールを行います。
+
+## サーバの設定
 
 ![image](https://user-images.githubusercontent.com/26180919/180128337-e5159349-73c5-4a20-addb-56a342c91d65.png)
 
